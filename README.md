@@ -1,8 +1,8 @@
 # Hotel-Booking-System
 
-### Hotel industry is one of the businesses which is growing rapidly and in order to attract the customers, the owners are providing various schemes and offers like offering complimentary breakfast, free car parking, free cancellation policy etc. In order for them to make necessary decisions to improve their business, they should study the data they collect from the customers and take necessary actions. In this project we aim to solve a few business case problems and predict the solutions that help both the customers and owners.
+Hotel industry is one of the businesses which is growing rapidly and in order to attract the customers, the owners are providing various schemes and offers like offering complimentary breakfast, free car parking, free cancellation policy etc. In order for them to make necessary decisions to improve their business, they should study the data they collect from the customers and take necessary actions. In this project we aim to solve a few business case problems and predict the solutions that help both the customers and owners.
 
-### This data set contains booking information for a city hotel and a resort hotel, and it includes 32 attributes and 119391 instances that could predict the probability of the customer making a cancellation based on external factors. It has information and variable names such as when the booking was made, length of stay, the lead time before the booking was made, the arrival date, if the booking was cancelled, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
+This data set contains booking information for a city hotel and a resort hotel, and it includes 32 attributes and 119391 instances that could predict the probability of the customer making a cancellation based on external factors. It has information and variable names such as when the booking was made, length of stay, the lead time before the booking was made, the arrival date, if the booking was cancelled, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 ### Project Results:
 
