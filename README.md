@@ -16,11 +16,11 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 ## Project Results:
 
-● Among the four implemented models, Random Forest model gives the highest accuracy (87%) when applied on our dataset. It also has the highest F1 score with 90%. This model also gives highest sensitivity (93%), which shows that it is very good at classifying the true positive values, which in our case is “Is Cancelled”.
 
-● Decision Tree is the next best model with an accuracy of 83% .This model gives both F-1 score and Sensitivity of 86%.
+- Among the four implemented models, Random Forest model gives the highest accuracy (87%) when applied on our dataset. It also has the highest F1 score with 90%. This model also gives highest sensitivity (93%), which shows that it is very good at classifying the true positive values, which in our case is “Is Cancelled”.
 
-● KNN is the next best model with an accuracy of 82%. However, this model gives good sensitivity i.e 89%, which shows that it is very good at classifying the true positive values, which in our case is “Is Cancelled”.
+- Decision Tree is the next best model with an accuracy of 83% .This model gives both F-1 score and Sensitivity of 86%.
 
-● Logistic Regression is found to be the least performing model, with an accuracy of
-only 75%.
+- KNN is the next best model with an accuracy of 82%. However, this model gives good sensitivity i.e 89%, which shows that it is very good at classifying the true positive values, which in our case is “Is Cancelled”.
+
+- Logistic Regression is found to be the least performing model, with an accuracy of only 75%.
